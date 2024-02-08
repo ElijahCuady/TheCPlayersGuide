@@ -9,3 +9,5 @@ challenge. My main goal is to get more familiar and comfortable writing in C#, w
 That necessitates a lot of experimenting, as well as trial and error. For anyone who sees this ReadMe, I hope this
 repo alone doesn't determine how you see me as a developer, but rather prove the fact that I am eager to learn and improve
 my skills whenever given the opportunity.
+
+<b>TLDR:</b> Don't bully me for my caveman solutions
