@@ -152,7 +152,7 @@ namespace TheCPlayersGuide.Part1TheBasics
 
             //• Play a sound with Console.Beep when the results have been computed and displayed.
             Console.WriteLine("City defended!");
-            Console.Beep(440, 2500);
+            Console.Beep(440, 100);
         }
 
         public static int[] getTargets()
